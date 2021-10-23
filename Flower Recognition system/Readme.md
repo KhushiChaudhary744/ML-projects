@@ -1,4 +1,4 @@
-# News Articles Classification
+# Flower Recognition System
 In this project we will be working with a dataset containing pictures of various flowers saved in folders named by their species.
 
 ## GOAL - 
